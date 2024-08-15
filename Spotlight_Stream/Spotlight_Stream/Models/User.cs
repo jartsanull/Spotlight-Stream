@@ -2,6 +2,8 @@
 
 namespace Spotlight_Stream.Models
 {
-    public class Class{
+    public class User{
+
+        private int Id { get; set; }
     }
 }
