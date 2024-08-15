@@ -8,16 +8,16 @@ namespace Spotlight_Stream.Models
         [Key]
         private int Id;
 
-        private string sender { get; set; }
-        private string content { get; set; }
+        private string Sender { get; set; }
+        private string Content { get; set; }
 
         public Message()
         {
         }
 
         public Message(string sender, string content){
-            this.sender = sender;
-            this.content = content;
+            this.Sender = sender;
+            this.Content = content;
         }
     }
 }
