@@ -8,5 +8,9 @@ namespace Spotlight_Stream.Models
         private string username;
         private string password;
         private string email;
+    
+
+    public User(){
     }
+}
 }
