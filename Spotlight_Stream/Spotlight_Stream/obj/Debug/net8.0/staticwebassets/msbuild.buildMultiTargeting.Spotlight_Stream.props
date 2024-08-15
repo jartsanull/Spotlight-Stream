@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Spotlight_Stream.props" />
+</Project>
