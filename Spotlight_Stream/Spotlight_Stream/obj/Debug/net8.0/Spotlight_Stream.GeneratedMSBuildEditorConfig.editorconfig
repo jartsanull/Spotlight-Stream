@@ -22,14 +22,6 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Omistaja/Documents/GitHub/Spotlight-Stream/Spotlight_Stream/Spotlight_Stream/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Omistaja/Documents/GitHub/Spotlight-Stream/Spotlight_Stream/Spotlight_Stream/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Omistaja/Documents/GitHub/Spotlight-Stream/Spotlight_Stream/Spotlight_Stream/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,6 +32,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Omistaja/Documents/GitHub/Spotlight-Stream/Spotlight_Stream/Spotlight_Stream/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omistaja/Documents/GitHub/Spotlight-Stream/Spotlight_Stream/Spotlight_Stream/Views/Spotlight/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BvdGxpZ2h0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Omistaja/Documents/GitHub/Spotlight-Stream/Spotlight_Stream/Spotlight_Stream/Views/Spotlight/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BvdGxpZ2h0XFByaXZhY3kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Omistaja/Documents/GitHub/Spotlight-Stream/Spotlight_Stream/Spotlight_Stream/Views/_ViewImports.cshtml]

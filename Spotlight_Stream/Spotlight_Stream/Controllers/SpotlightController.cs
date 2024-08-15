@@ -4,11 +4,11 @@ using System.Diagnostics;
 
 namespace Spotlight_Stream.Controllers
 {
-    public class HomeController : Controller
+    public class SpotlightController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<SpotlightController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public SpotlightController(ILogger<SpotlightController> logger)
         {
             _logger = logger;
         }
@@ -17,11 +17,6 @@ namespace Spotlight_Stream.Controllers
         {
             return View();
         }
-
-        /*public IActionResult Privacy()
-        {
-            return View();
-        }*/
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
