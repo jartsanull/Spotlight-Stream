@@ -8,9 +8,9 @@ namespace Spotlight_Stream.Models
         [Key]
         private int Id;
 
-        private string username {  get; set; }
-        private string password { get; set; }
-        private string email { get; set; }
+        private string Username {  get; set; }
+        private string Password { get; set; }
+        private string Email { get; set; }
     
 
     public User(){
@@ -18,9 +18,9 @@ namespace Spotlight_Stream.Models
 
     public User(string username, string password, string email)
         {
-            this.username = username;
-            this.password = password;
-            this.email = email;
+            this.Username = username;
+            this.Password = password;
+            this.Email = email;
         }
 }
 }
