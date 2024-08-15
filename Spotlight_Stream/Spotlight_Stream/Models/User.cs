@@ -19,7 +19,5 @@ namespace Spotlight_Stream.Models
             this.password = password;
             this.email = email;
         }
-
-
 }
 }
