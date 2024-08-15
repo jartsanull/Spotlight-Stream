@@ -6,7 +6,7 @@ namespace Spotlight_Stream.Models
     public class User{
 
         [Key]
-        private int Id;
+        private long Id;
 
         private string Username {  get; set; }
         private string Password { get; set; }

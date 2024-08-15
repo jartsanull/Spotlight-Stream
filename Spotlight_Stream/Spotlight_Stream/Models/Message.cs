@@ -6,13 +6,12 @@ namespace Spotlight_Stream.Models
     public class Message{
 
         [Key]
-        private int Id;
+        private long Id;
 
         private string Sender { get; set; }
         private string Content { get; set; }
 
-        public Message()
-        {
+        public Message(){
         }
 
         public Message(string sender, string content){
