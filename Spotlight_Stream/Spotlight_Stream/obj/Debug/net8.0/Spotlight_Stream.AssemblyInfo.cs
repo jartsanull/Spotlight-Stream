@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Spotlight_Stream")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc09310a634eb765387e0f4c2cf306a4b3563913")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+321cfe59f47e5b8016f519beaf41eee51a8aa611")]
 [assembly: System.Reflection.AssemblyProductAttribute("Spotlight_Stream")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Spotlight_Stream")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
