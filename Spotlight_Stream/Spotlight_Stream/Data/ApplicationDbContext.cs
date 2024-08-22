@@ -5,7 +5,6 @@ using Spotlight_Stream.Models;
 
 namespace Spotlight_Stream.Data
 {
-    // Inherit from IdentityDbContext to include ASP.NET Core Identity tables and functionality
     public class ApplicationDbContext : IdentityDbContext<IdentityUser>
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
@@ -13,7 +12,6 @@ namespace Spotlight_Stream.Data
         {
         }
 
-        // Define DbSet properties for your custom entities
         public DbSet<Message> Messages { get; set; }
         public DbSet<User> Users { get; set; }
     }
