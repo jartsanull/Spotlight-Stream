@@ -7,7 +7,7 @@ namespace Spotlight_Stream.Models
 
         [Key]
         private long Id;
-
+        [Required]
         private string Sender { get; set; }
         private string Content { get; set; }
 
