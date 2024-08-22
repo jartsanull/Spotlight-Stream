@@ -8,8 +8,8 @@ namespace Spotlight_Stream.Models
         [Key]
         private long Id;
         [Required]
-        private string Sender { get; set; }
-        private string Content { get; set; }
+        public string Sender { get; set; }
+        public string Content { get; set; }
 
         public Message(){
         }
