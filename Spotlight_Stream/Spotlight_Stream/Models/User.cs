@@ -4,12 +4,12 @@ using System.ComponentModel.DataAnnotations;
 namespace Spotlight_Stream.Models{
     public class User{
 
-        [Key]
-        public long Id;
+    [Key]
+    public long Id;
 
-        public string Username {  get; set; }
-        public string Password { get; set; }
-        public string Email { get; set; }
+    public string Username {  get; set; }
+    public string Password { get; set; }
+    public string Email { get; set; }
     
 
     public User(){
