@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Omistaja\\Documents\\GitHub\\Spotlight-Stream\\Spotlight_Stream\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89A4036F-5F3F-4656-AF86-DD269C561495}|Spotlight_Stream\\Spotlight_Stream.csproj|c:\\users\\omistaja\\documents\\github\\spotlight-stream\\spotlight_stream\\spotlight_stream\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89A4036F-5F3F-4656-AF86-DD269C561495}|Spotlight_Stream\\Spotlight_Stream.csproj|solutionrelative:spotlight_stream\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{89A4036F-5F3F-4656-AF86-DD269C561495}|Spotlight_Stream\\Spotlight_Stream.csproj|c:\\users\\omistaja\\documents\\github\\spotlight-stream\\spotlight_stream\\spotlight_stream\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89A4036F-5F3F-4656-AF86-DD269C561495}|Spotlight_Stream\\Spotlight_Stream.csproj|solutionrelative:spotlight_stream\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A4036F-5F3F-4656-AF86-DD269C561495}|Spotlight_Stream\\Spotlight_Stream.csproj|c:\\users\\omistaja\\documents\\github\\spotlight-stream\\spotlight_stream\\spotlight_stream\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A4036F-5F3F-4656-AF86-DD269C561495}|Spotlight_Stream\\Spotlight_Stream.csproj|solutionrelative:spotlight_stream\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89A4036F-5F3F-4656-AF86-DD269C561495}|Spotlight_Stream\\Spotlight_Stream.csproj|c:\\users\\omistaja\\documents\\github\\spotlight-stream\\spotlight_stream\\spotlight_stream\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -70,8 +70,7 @@
               "RelativeToolTip": "Spotlight_Stream\\Repositories\\IMeseRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T18:28:59.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T18:28:59.15Z"
             },
             {
               "$type": "Document",
@@ -83,18 +82,17 @@
               "RelativeToolTip": "Spotlight_Stream\\Repositories\\MessageRepository.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAAACMAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T16:21:19.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T16:21:19.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\Users\\Omistaja\\Documents\\GitHub\\Spotlight-Stream\\Spotlight_Stream\\Spotlight_Stream\\Models\\Message.cs",
               "RelativeDocumentMoniker": "Spotlight_Stream\\Models\\Message.cs",
               "ToolTip": "C:\\Users\\Omistaja\\Documents\\GitHub\\Spotlight-Stream\\Spotlight_Stream\\Spotlight_Stream\\Models\\Message.cs",
               "RelativeToolTip": "Spotlight_Stream\\Models\\Message.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T13:03:29.729Z",
               "EditorCaption": ""
@@ -109,8 +107,7 @@
               "RelativeToolTip": "Spotlight_Stream\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T18:05:08.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T18:05:08.494Z"
             },
             {
               "$type": "Document",
@@ -126,13 +123,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Omistaja\\Documents\\GitHub\\Spotlight-Stream\\Spotlight_Stream\\Spotlight_Stream\\Models\\User.cs",
               "RelativeDocumentMoniker": "Spotlight_Stream\\Models\\User.cs",
               "ToolTip": "C:\\Users\\Omistaja\\Documents\\GitHub\\Spotlight-Stream\\Spotlight_Stream\\Spotlight_Stream\\Models\\User.cs",
               "RelativeToolTip": "Spotlight_Stream\\Models\\User.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAA3wA8AAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T12:27:42.139Z",
               "EditorCaption": ""
