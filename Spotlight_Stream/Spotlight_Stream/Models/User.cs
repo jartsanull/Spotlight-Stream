@@ -1,8 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace Spotlight_Stream.Models
-{
+namespace Spotlight_Stream.Models{
     public class User{
 
         [Key]
