@@ -16,8 +16,7 @@ namespace Spotlight_Stream.Models
     public User(){
     }
 
-    public User(string username, string password, string email)
-        {
+    public User(string username, string password, string email){
             this.Username = username;
             this.Password = password;
             this.Email = email;
